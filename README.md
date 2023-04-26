@@ -16,5 +16,3 @@ For the final model, residual plots for the train and test datasets were analyze
 
 ## Results
 The analysis revealed that temperature and humidity were the most significant drivers of bike sharing demand. Surprisingly, weekday/weekend was not a significant predictor of bike demand. This could indicate that bike sharing is not necessarily catering only to a leisure segment that rides only on weekends.
-
-Overall, the model provides a useful tool for predicting and forecasting demand for a bike-sharing service based on weather, season, and time data.
